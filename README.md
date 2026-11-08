@@ -5,7 +5,6 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn](https://www.linkedin.com/feed/foryou/))
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.dudu.jr0108@gmail.com)
 
 ---
