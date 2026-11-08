@@ -5,7 +5,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcelo-eduardo-898672329A](https://www.linkedin.com/in/marcelo-eduardo-898672329/recent-activity/all/))
+[![LinkedIn]([))
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelo.dudu.jr0108@gmail.com)
 
 ---
