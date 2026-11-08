@@ -10,6 +10,6 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o 1º período de Engenharia de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend.
+Atualmente cursando o 2º período de Engenharia de Software na Universidade Cidade de São Paulo. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em Desenvolvimento Backend.
  
 * **Habilidades Técnicas:** Phyton, FrontEnd.
